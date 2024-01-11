@@ -18,4 +18,4 @@ ___
 - Очистка данных
 - Выводы
 ## Результат
-:scroll: [Jupyter notebook](Video games Analysis/Analysis videogames.ipynb)
+:scroll: [Jupyter notebook](#Video games Analysis)
